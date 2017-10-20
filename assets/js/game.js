@@ -25,9 +25,7 @@
   var selections = []; //game user choices
   var game = $('#game'); 
   
-  
   displayNext();
-  
 
   $('#next').on('click', function (e) {
     e.preventDefault();
